@@ -1,1 +1,1 @@
-# College-management-Q-A-system-using-openai
+# College-management-QA-system-using-openai
